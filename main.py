@@ -1,11 +1,12 @@
-print("Hello, World!")
+def very_important_function():
+    print("This is a very important function")
+    return True
 
-wow = "h1"
-print("Hello, World!")
-print("Hello, World!")
+def main():
+    very_important_function()
 
-if wow == "h1":
-    print("correct!")
+if __name__ == "__main__":
+    main()
 
-print("Hello, World!")
-print("hihi")
+    print("wow")
+
