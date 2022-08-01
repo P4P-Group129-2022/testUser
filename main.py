@@ -1,10 +1,9 @@
 def very_important_function():
     print("This is a very important function")
-    print("hihi")
-    print("hehexd")
     return True
 
 def main():
+    print("calling from main")
     very_important_function()
 
 if __name__ == "__main__":
