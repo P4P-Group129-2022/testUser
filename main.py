@@ -3,6 +3,7 @@ def very_important_function():
     return True
 
 def main():
+    print("hihi xd")
     very_important_function()
 
 if __name__ == "__main__":
