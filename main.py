@@ -3,13 +3,6 @@ def very_important_function():
     return True
 
 def main():
-    print("This is the main function")
-    print("This is the main function")
-    print("This is the main function")
-    print("This is the main function")
-    print("This is the main function")
-    print("This is the main function")
-    print("This is the main function")
     very_important_function()
 
 if __name__ == "__main__":
