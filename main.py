@@ -6,4 +6,5 @@ def main():
     very_important_function()
 
 if __name__ == "__main__":
-    main()
+    main()    print("Line added from rebase.")
+    print("Line added from rebase.")
